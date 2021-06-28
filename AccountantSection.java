@@ -16,6 +16,7 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+# Adding Accountent classes using built in libraries
 public class AccountantSection extends JFrame {
 	static AccountantSection frame;
 	private JPanel contentPane;

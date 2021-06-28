@@ -20,6 +20,7 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+# Adding AccountantLogin class using built in libraries
 public class AccountantLogin extends JFrame {
 	static AccountantLogin frame;
 	private JPanel contentPane;
